@@ -1,0 +1,12 @@
+
+{
+    "port":3333,
+    "mysql":{
+        "host":"localhost",
+        "dialect":"mysql",
+        "username":"root",
+        "password":"",
+        "database":"food delivery"
+    }
+    
+}
